@@ -1,4 +1,4 @@
-# Terraform-AWS scalable Phonebook
+# Scalable Phonebook Application
 
 A highly available phonebook web application deployed on AWS with auto-scaling capabilities, built using Python Flask, MySQL RDS, and Infrastructure as Code with Terraform.
 
